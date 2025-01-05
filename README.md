@@ -57,6 +57,7 @@ The project spanned multiple phases, incorporating real-world methodologies and 
 ---
 
 #### **Acknowledgement**  
-OpenAI's ChatGPT, who provided invaluable guidance throughout this project. Acting as both a client and mentor, it simulated real-world challenges, offered constructive feedback, and ensured every phase of the project aligned with professional standards. This collaboration enriched my learning experience and prepared me for future challenges in data analytics.  
+
+   - OpenAI's ChatGPT, who provided invaluable guidance throughout this project. Acting as both a client and mentor, it simulated real-world challenges, offered constructive feedback, and ensured every phase of the project aligned with professional standards. This collaboration enriched my learning experience and prepared me for future challenges in data analytics.  
 ---
 
